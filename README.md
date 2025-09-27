@@ -1,6 +1,6 @@
 # TOMSON Electronics
 
-![TOMSON Electronics Logo](https://www.tomsonelectronics.com/images/logo.png) <!-- Update with your actual logo URL if needed -->
+![TOMSON Electronics Logo](https://www.tomsonelectronics.com/cdn/shop/files/Taskroup_blog_images.png?v=1754379851&width=230) <!-- Update with your actual logo URL if needed -->
 
 ---
 
