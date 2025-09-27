@@ -6,9 +6,9 @@
 
 ## About Us
 
-TOMSON Electronics is one of the largest commercial suppliers of electronic components in India, spearheading the Kerala Industrial Revolution. Established in Cochin and now also operating from Coimbatore, our firm has evolved to become a trusted name for high-quality electronic components and products.
+Tomson Electronics is one of the largest commercial suppliers of electronic components in India, spearheading the Kerala Industrial Revolution. Established in Cochin and now also operating from Coimbatore, our firm has evolved to become a trusted name for high-quality electronic components and products.
 
-We are committed to supplying premium electronics, learning kits, and resources, supporting innovators, makers, and manufacturers nationwide. With a solid reputation for quality, reliability, and professionalism, TOMSON Electronics is “Run by Engineers for Engineers.”
+We are committed to supplying premium electronics, learning kits, and resources, supporting innovators, makers, and manufacturers nationwide. With a solid reputation for quality, reliability, and professionalism, Tomson Electronics is “Run by Engineers for Engineers.”
 
 ### Our Mission
 - Deliver high-quality components and products.
